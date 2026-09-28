@@ -82,6 +82,9 @@ Open http://localhost:3000, create an account, and add your first assessment.
 | `npm run typecheck` | `tsc --noEmit` |
 | `npm test` | Unit tests for the scoring and option-parsing logic |
 
+All four run on every pull request and on pushes to `main`, via
+`.github/workflows/ci.yml`.
+
 ## How the security model works
 
 There are two Supabase clients, and the split is the whole design:
