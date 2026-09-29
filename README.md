@@ -1,4 +1,4 @@
-# smartscore
+# SmartScore
 
 SmartScore scores how well a resume matches a job description, then tells you what is missing and what to fix. It runs entirely in your browser: no backend, no accounts, no API keys, and your resume is never uploaded.
 
