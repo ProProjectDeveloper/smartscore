@@ -1,1 +1,1 @@
-# smartscore
+# SmartScore
